@@ -1,3 +1,3 @@
-# Repository
-Just another repository
-By a Github user.
+# Promotional Writing
+Business writing samples.
+
